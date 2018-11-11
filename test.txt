@@ -6,4 +6,6 @@
 这个是合并后需要保持的内容
 
 version1
+version2
+
 
